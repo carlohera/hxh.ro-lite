@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap);
+body {
+    margin: 0;
+    font-family: Muli;
+    color: #eeeeee;
+    background-color: black;
+
+
+}
+#home {
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://images.hdqwalls.com/wallpapers/counter-strike-global-offensive4k-q3.jpg');
+    padding: 2% 5%;;
+    height: 600px;
+    width: 100%;
+    z-index: -1;
+    background-color: rgb(56, 56, 194);
+    background-blend-mode: multiply;
+    
+    
+}
+#home .iphone {
+    width: 250px;
+    height: 400px;
+    top: 80%;
+    margin-left: 40%;
+    z-index: -1;
+    position: absolute;
+}
+
+.heading {padding-top: 150px;}
+.p-heading {
+    font-size: 14px;
+    color: rgb(129, 129, 129);
+    font-style: italic;
+}
+.head {text-align: center;}
+.btn {margin-left: 10px;}
+.gametracker {padding-top: 20px;}
+
+
+
+
+#staff {
+    padding-bottom: 50px;
+    text-align: center;
+    background-image: linear-gradient(to left top, #000000, #060505, #0b090c, #0f0e11, #111215);}
+.card-img-top {  
+    width: 80px;
+    height: 80px;
+    margin: -40px auto 10px;
+    border-radius: 100%;
+}
+.card-img {width: 200px; height: 200px;}
+.card {background-color: rgba(34, 34, 46, 0.521);}
+.card-deck {margin: 0 auto;}
+.title-muted {color:grey; font-style: 5px;}
+
+
+
+
+
+
+#about {
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://i.pinimg.com/originals/d5/97/c4/d597c461c5f7fdc6afd0782cb08c8053.jpg');
+    text-align: center;
+    background-color: rgb(33, 77, 102);
+    background-blend-mode: multiply;
+}
+
+.alert-hvh {
+
+    width: 100%;
+    background-color: rgba(34, 117, 128, 0.164);
+}
+
+
+.t5 {
+    padding-top: 5%;
+}
+
